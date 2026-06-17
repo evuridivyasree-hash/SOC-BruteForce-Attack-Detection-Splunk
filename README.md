@@ -31,7 +31,7 @@ Multiple failed SSH login attempts were generated against the system.
 Example log events:
 
 Failed password for user admin from 192.168.1.10 port 22
-Failed password for user admin from 192.168.1.10 port 22
+Failed password for user admin from 192.168.1.15 port 22
 Successful login for user admin from 192.168.1.10 port 22
 
 ## Splunk Detection Query
